@@ -128,7 +128,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: #575757;
+    color:black;
 }
 
 .d-bloc .a-btn:hover,
@@ -646,6 +646,7 @@ a {
     font-family: "helvetica";
     font-weight: 400;
     color: #575757!important;
+    font-size: 1.2em;
 }
 
 .container {
@@ -725,7 +726,7 @@ h4 {
 }
 
 .white {
-    font-weight: 800;
+    color: black!important;
 }
 
 .portfolio-thumb {
@@ -771,7 +772,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #575757!important;
+    color: black!important;
 }
 
 .btn-atomic-tangerine:hover {
