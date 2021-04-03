@@ -502,6 +502,7 @@ button {
 
 .form-control {
     box-shadow: none;
+    border-color: black;
 }
 
 .scrollToTop {
