@@ -11,10 +11,10 @@ a,
 button {
     transition: all .3s ease-in-out;
     outline: none!important;
+    text-decoration: none;
 }
 
 a:hover {
-    text-decoration: none;
     cursor: pointer;
 }
 
