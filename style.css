@@ -433,6 +433,7 @@ nav .caret {
 .mg-md {
     margin-top: 10px;
     margin-bottom: 20px;
+    color: black!important;
 }
 
 .mg-lg {
@@ -545,6 +546,7 @@ a[data-lightbox]:hover::before {
     z-index: 1;
     position: absolute;
     top: 50%;
+    left: 50%;
     transform: translateY(-50%);
     -webkit-transform: translateY(-50%);
 }
@@ -655,7 +657,7 @@ a {
 }
 
 .hero-bloc-text {
-    font-size: 38px;
+    font-size: 38px!important;
 }
 
 .hero-bloc-text-sub {
@@ -771,6 +773,7 @@ h4 {
 
 .tc-white {
     color: #FFF!important;
+    font-size: 18px;
 }
 
 .btn-atomic-tangerine {
